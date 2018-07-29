@@ -7,6 +7,7 @@
 <tr><td class=t2><b>Пример кода:</b>
 <pre>
 SELECT name FROM bids ORDER BY price DESC LIMIT 1
+</pre>
 </td></tr>
 <tr><td class=t3>
 <b>Результат выполнения:</b><br>

@@ -11,7 +11,6 @@ SELECT caption FROM events LEFT JOIN bids ON events.id = id_event WHERE bids.id 
 <tr><td class=t3>
 <b>Результат выполнения:</b><br>
 <pre>
-Грин Грей (Green Grey)
 </pre>
 </td></tr>
 </table>

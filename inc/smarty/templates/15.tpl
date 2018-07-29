@@ -15,7 +15,6 @@ ORDER BY cnt DESC LIMIT 1</pre>
 <tr><td class=t3>
 <b>Результат выполнения:</b><br>
 <pre>
-Atlas Weekend
 </pre>
 </td></tr>
 </table>

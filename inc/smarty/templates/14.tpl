@@ -16,7 +16,6 @@ HAVING cnt>3
 <tr><td class=t3>
 <b>Результат выполнения:</b><br>
 <pre>
-Первый элемент массива $arr = 2
 </pre>
 </td></tr>
 </table>
